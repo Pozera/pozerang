@@ -50,12 +50,5 @@ ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
 
 /*==================== typed js ====================*/
 
-const typed = new Typed('.multiple-text', {
-    strings: ['UI/UX Designer', 'Low-Code Developer (Bubble.io)'],
-    typeSpeed: 100,
-    backSpeed: 100,
-    backDelay: 1000,
-    fadeOut: true,
-    loop: true
-  });
+
     
